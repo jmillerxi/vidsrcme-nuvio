@@ -1,0 +1,17 @@
+{
+  "name": "VidSrcMe Providers",
+  "description": "Streaming provider using vsembed.su (VidSrcMe) — Movies & TV",
+  "version": "1.0.0",
+  "author": "YourNameHere",
+  "providers": [
+    {
+      "id": "vidsrcme",
+      "name": "VidSrcMe",
+      "description": "Movies & TV shows via vsembed.su",
+      "version": "1.0.0",
+      "types": ["movie", "tv"],
+      "icon": "https://vsembed.su/favicon.ico",
+      "url": "https://raw.githubusercontent.com/jmillerxi/vidsrcme-nuvio/main/providers/vidsrcme.js"
+    }
+  ]
+}
