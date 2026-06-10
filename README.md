@@ -1,2 +1,0 @@
-# vidsrcme-nuvio
-vidsrcme nuvio
