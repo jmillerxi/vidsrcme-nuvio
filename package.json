@@ -1,0 +1,16 @@
+{
+  "name": "vidsrcme-stremio-addon",
+  "version": "1.0.0",
+  "description": "Stremio addon — streams via vsembed.su (VidSrcMe)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "PORT=7000 node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
