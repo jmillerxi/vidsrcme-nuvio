@@ -12,7 +12,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://raw.githubusercontent.com/jmillerxi/vidsrcme-nuvio/main/providers/vidsrcme.js",
+      "filename": "providers/vidsrcme.js",
       "enabled": true,
       "formats": [
         "m3u8",
